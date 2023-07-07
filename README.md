@@ -14,7 +14,7 @@ Welcome to the BTS Telegram Bot - PurpleU! This bot is designed to provide BTS f
 - Bye: End the conversation with the bot.
 
 # 🌟 Usage
-- Start the bot by searching for @BTS_PurpleU_Bot on Telegram or by clicking here.
+- Start the bot by searching for @BTS_PurpleU_Bot on Telegram or by [clicking here](https://t.me/BTS_PurpleU_Bot).
 - Use the available commands to interact with the bot:
 - /start - Begin the conversation.
 - /bias - Choose your bias and get their Instagram handle.
