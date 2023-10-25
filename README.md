@@ -2,6 +2,8 @@
 # BTS Telegram Bot - PurpleU 🌟💜
 Welcome to the BTS Telegram Bot - PurpleU! This bot is designed to provide BTS fans with information, updates, and interactive features related to the popular K-pop group, BTS.
 
+![Movie Recommendation System](https://cdn.i-scmp.com/sites/default/files/d8/images/methode/2020/12/10/5bc61682-3523-11eb-8d89-a7d6b31c4b8a_image_hires_164759.jpeg)
+
 # 🔗 Colab Link :
 - https://colab.research.google.com/drive/1IWMoaJmyyUBhlLnZQ0yIPQ713R6uZDEz?usp=sharing
 
